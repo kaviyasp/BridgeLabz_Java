@@ -21,3 +21,6 @@
 - **12th January 2026 (Monday):** Completed Control Flow exercises Level 1 to 3, focusing on if-else, switch, and nested loops.
 - **13th January 2026 (Tuesday):** Practiced Java Methods Level 1 to 3, focusing on parameters, return types, and method overloading.
 - **14th January 2026 (Wednesday):** Worked on String exercises Level 1 to 3, including manipulation, comparison, substring extraction, etc.
+- **15th January 2026 (Thursday):** Started with OOPS: Class and Object, Java Constructors, Instance vs. Class Variables, Access Modifiers.
+- **16th January 2026 (Friday):** Corrected the Git structure, and covered this, static, final key words, instanceof operator and Object Oriented Design Principles.
+- **17th January 2026 (Saturday):** Inheritance programs covering single, multiple, hierarchical, and hybrid inheritance and  Encapsulation, Polymorphism, Interface and Abstract Class.
