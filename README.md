@@ -24,3 +24,5 @@
 - **15th January 2026 (Thursday):** Started with OOPS: Class and Object, Java Constructors, Instance vs. Class Variables, Access Modifiers.
 - **16th January 2026 (Friday):** Corrected the Git structure, and covered this, static, final key words, instanceof operator and Object Oriented Design Principles.
 - **17th January 2026 (Saturday):** Inheritance programs covering single, multiple, hierarchical, and hybrid inheritance and  Encapsulation, Polymorphism, Interface and Abstract Class.
+- **19th January 2026 (Monday):** Started DSA, Completed implementations of Linked List, Stack, Queue, and Hash Map data structures along with core problem-solving programs.
+- **20th January 2026 (Tuesday):** Completed implementation of multiple sorting algorithms in Java and attended Review-2.
