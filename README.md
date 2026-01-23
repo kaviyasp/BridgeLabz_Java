@@ -26,3 +26,5 @@
 - **17th January 2026 (Saturday):** Inheritance programs covering single, multiple, hierarchical, and hybrid inheritance and  Encapsulation, Polymorphism, Interface and Abstract Class.
 - **19th January 2026 (Monday):** Started DSA, Completed implementations of Linked List, Stack, Queue, and Hash Map data structures along with core problem-solving programs.
 - **20th January 2026 (Tuesday):** Completed implementation of multiple sorting algorithms in Java and attended Review-2.
+- **21th January 2026 (Wednesday):** Implemented advanced binary search techniques and linear search logic through multiple array and matrix-based problems.
+- **22nd January 2026 (Thursday):** Worked on algorithm runtime analysis and Big-O notation by implementing and comparing searching, sorting, string handling, recursion, file I/O, and data structure performance.
