@@ -28,3 +28,9 @@
 - **20th January 2026 (Tuesday):** Completed implementation of multiple sorting algorithms in Java and attended Review-2.
 - **21th January 2026 (Wednesday):** Implemented advanced binary search techniques and linear search logic through multiple array and matrix-based problems.
 - **22nd January 2026 (Thursday):** Worked on algorithm runtime analysis and Big-O notation by implementing and comparing searching, sorting, string handling, recursion, file I/O, and data structure performance.
+- **23rd January 2026 (Friday):** Studied Data Structures fundamentals and practiced Linked List and Stack problems.
+- **24th January 2026 (Saturday):** Completed Sorting Algorithms and implemented Linear Search and Binary Search algorithms.
+- **26th January 2026 (Monday):** Completed Time complexity codes and started OOPS Banner App (Console-Based Application).
+- **27th January 2026 (Tuesday):** Completed OOPS Banner App.
+- **28th January 2026 (Wednesday):** Started learning Java Generics; practiced generic classes, generic methods, bounded type parameters, and solved multiple example programs.
+- **29th January 2026 (Thursday):** Started building Factory Robot Hazard Analyzer application analyzed problem statement and began core implementation.
