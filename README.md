@@ -34,3 +34,8 @@
 - **27th January 2026 (Tuesday):** Completed OOPS Banner App.
 - **28th January 2026 (Wednesday):** Started learning Java Generics; practiced generic classes, generic methods, bounded type parameters, and solved multiple example programs.
 - **29th January 2026 (Thursday):** Started building Factory Robot Hazard Analyzer application analyzed problem statement and began core implementation.
+- **30th January 2026 (Friday):** Introduction, Type Parameters, Generic Classes, Methods, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards, Collection Framework - ArrayList, Linked List, Stack, Queue, Set, Map
+- **31st January 2026 (Saturday):** Factory Robot Hazard Analyzer system
+- **2nd February 2026 (Monday):** Collection Framework - ArrayList, Linked List, Stack, Queue, Set, Map.
+- **3rd February 2026 (Tuesday):** OceanFleet App – Use Case–Driven OOPS & Data Structures Learning Project
+- **4th February 2026 (Wednesday):** I/O Stream - File, Object, ByteArray, Buffered, Reader/Writer.
