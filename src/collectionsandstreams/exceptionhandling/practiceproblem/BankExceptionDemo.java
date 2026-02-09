@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.practiceproblem;
+package collectionsandstreams.exceptionhandling.practiceproblem;
 
 class InsufficientBalanceException extends Exception {
     InsufficientBalanceException(String msg) {

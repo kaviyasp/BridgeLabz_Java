@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.practiceproblem;
+package collectionsandstreams.exceptionhandling.practiceproblem;
 
 public class ThrowVsThrowsDemo {
     static double calculateInterest(double amount, double rate, int years) throws IllegalArgumentException {

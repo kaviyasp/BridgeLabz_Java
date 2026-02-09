@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.practiceproblem;
+package collectionsandstreams.exceptionhandling.practiceproblem;
 
 public class ExceptionPropagationDemo {
     static void method1() {

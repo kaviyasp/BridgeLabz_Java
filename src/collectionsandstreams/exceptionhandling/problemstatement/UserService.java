@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.problemstatement;
+package collectionsandstreams.exceptionhandling.problemstatement;
 class UserAlreadyExistsException extends Exception {
     UserAlreadyExistsException(String msg) {
         super(msg);

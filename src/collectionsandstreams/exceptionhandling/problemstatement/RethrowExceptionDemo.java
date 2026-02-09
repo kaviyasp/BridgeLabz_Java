@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.problemstatement;
+package collectionsandstreams.exceptionhandling.problemstatement;
 
 public class RethrowExceptionDemo {
     static int performDivision(int numerator, int denominator) {

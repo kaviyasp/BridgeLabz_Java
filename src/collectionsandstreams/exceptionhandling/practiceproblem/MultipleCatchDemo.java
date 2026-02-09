@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.practiceproblem;
+package collectionsandstreams.exceptionhandling.practiceproblem;
 
 public class MultipleCatchDemo {
     public static void main(String[] args) {

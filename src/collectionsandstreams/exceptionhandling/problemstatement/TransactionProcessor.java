@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandling.problemstatement;
+package collectionsandstreams.exceptionhandling.problemstatement;
 
 class TransactionException extends Exception {
     TransactionException(String msg) {
