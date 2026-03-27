@@ -39,3 +39,46 @@
 - **2nd February 2026 (Monday):** Collection Framework - ArrayList, Linked List, Stack, Queue, Set, Map.
 - **3rd February 2026 (Tuesday):** OceanFleet App – Use Case–Driven OOPS & Data Structures Learning Project
 - **4th February 2026 (Wednesday):** I/O Stream - File, Object, ByteArray, Buffered, Reader/Writer.
+- **5th February 2026 (Thursday):** Learned Exception Handling concepts – Types (Checked, Unchecked), Custom Exceptions Try-Catch blocks, Finally block.
+- **6th February 2026(Friday):** Practiced exception flow handling with programs, worked on Throw vs Throws, created custom exception classes, extended Exception class.
+- **7th February 2026 (Saturday):** 
+- **9th February 2026 (Monday):** Learned Regex basics – common patterns like email, phone number, password validation.
+- **10th February 2026 (Tuesday):** Practiced Java Regex API – Pattern, Matcher, find(), matches(), replaceAll().
+- **11th February 2026 (Wednesday):** Introduction to Unit Testing using JUnit – annotations and basic test cases.
+- **12th February 2026 (Thursday):** Writing structured test cases, assertions, and understanding code coverage.
+- **13th February 2026 (Friday):** Continued JUnit practice with multiple test scenarios and debugging failures. Learned Java Annotations – built-in annotations and their usage.
+- **14th February 2026 (Saturday):** 
+- **16th February 2026 (Monday):** Created custom annotations and explored defining annotation interfaces.
+- **17th February 2026 (Tuesday):** Studied Design Principles – DRY, SOLID, YAGNI with examples.
+- **18th February 2026 (Wednesday):** Applied Design Principles and understood TDD (Test Driven Development), introduction to Design Patterns.
+- **19th February 2026 (Thursday):** Studied Creational Design Patterns – Singleton and Factory basics. 
+- **20th February 2026 (Friday):** Learned Structural Pattern – Decorator with implementation examples.
+- **21st February 2026 (Saturday):** Attended Soft Skills / Communication Session.
+- **23rd February 2026 (Monday):** Studied Behavioral Pattern – Observer and its real-world use cases.
+- **24th February 2026 (Tuesday):** Worked on CSV data handling – reading, writing, parsing, validation.
+- **25th February 2026 (Wednesday):** Learned JSON handling – parsing, schema validation, read/write operations.
+- **26th February 2026 (Thursday):** Practiced JSON & CSV mini programs and data transformation tasks.
+- **27th February 2026 (Friday):** Introduction to Java 8 features – Lambda expressions and Streams API, Practiced Stream API operations – filter, map, reduce, collect.
+- **28th February 2026 (Saturday):** Attended Soft Skills / Communication Session.
+- **2nd March 2026 (Monday):** Explored advanced Java 8 – Generics with Streams and functional interfaces.
+- **3rd March 2026 (Tuesday):** Studied Multi-threading – Thread class and Runnable interface.
+- **4th March 2026 (Wednesday):** Learned Thread lifecycle, states, and synchronization basics.
+- **5th March 2026 (Thursday):** Practiced multi-threading programs and concurrency handling, introduction to DBMS – relational vs non-relational databases. 
+- **6th March 2026 (Friday):** Learned MySQL basics – DDL, DML, ER diagrams.
+- **7th March 2026 (Saturday):** Attended Soft Skills / Communication Session.
+- **9th March 2026 (Monday):** Studied indexing, normalization forms, and SQL joins.
+- **10th March 2026 (Tuesday):** Learned stored procedures and triggers in DBMS.
+- **11th March 2026 (Wednesday):** Introduction to JDBC – database connectivity using Java. Practiced JDBC programs – CRUD operations with MySQL.
+- **12th March 2026 (Thursday):** Worked on ER diagram implementation and JDBC mini project.
+- **13th March 2026 (Friday):** Started Backend – Installed and configured Apache Tomcat, created first Servlet project.
+- **14th March 2026 (Saturday):** Attended Soft Skills / Communication Session.
+- **16th March 2026 (Monday):** Created new Git repo for backend, implemented basic Servlet handling (GET/POST), deployed on Tomcat.
+- **17th March 2026 (Tuesday):** Worked on JSP and JSTL, created dynamic web pages and connected with Servlets.
+- **18th March 2026 (Wednesday):** Implemented Spring MVC architecture, created controller, model, and view structure.
+- **19th March 2026 (Thursday):** Started REST API development – created basic endpoints and tested using Postman. Implemented request handling (GET, POST, PUT, DELETE) and integrated H2 database.
+- **20th March 2026 (Friday):** Practiced REST API use cases and improved endpoint structure (validation + response handling).
+- **21st March 2026 (Saturday):** Attended Soft Skills / Communication Session.
+- **23rd March 2026 (Monday):** Created new Spring Boot project and repo, implemented REST controllers for Employee Payroll App.
+- **24th March 2026 (Tuesday):** Worked on Service layer and Dependency Injection, structured project using layered architecture.
+- **25th March 2026 (Wednesday):** Integrated database with Spring Boot (JPA + Hibernate), performed CRUD operations.
+- **26th March 2026 (Thursday):** Added logging, tested APIs using Postman, finalized Employee Payroll backend features and pushed to GitHub.
